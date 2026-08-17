@@ -150,9 +150,10 @@ export default function Home() {
           <h2>Technology should get out of the way of listening.</h2>
           <div className="about-copy">
             <p>
-              WOOD Audio Solutions LLC is an independent practice working
-              across digital signal processing, embedded audio, music software,
-              and machine learning.
+              WOOD Audio Solutions LLC, whose name comes from the ambitious
+              "WOOD Multi-Pitch Extraction" model, is an independent practice 
+              working across digital signal processing, embedded audio, music
+              software, and machine learning.
             </p>
             <p>
               Each project begins with the same question: how can careful
