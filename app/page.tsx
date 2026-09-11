@@ -21,13 +21,13 @@ const projects = [
   },
   {
     number: "03",
-    title: "Fe59 Tri-Oscillator",
+    title: "Raspberry Pi MIDI Synthesizer",
     description:
-      "A three-oscillator instrument for shaping harmonically rich tones through synthesis, interaction, and focused sound design.",
-    tags: ["Synthesis", "Oscillators", "Instrument design"],
-    href: "https://github.com/xiaohet/Fe59TriOscillator",
+      "A velocity-sensitive, polyphonic three-oscillator synthesizer that turns an AKAI MPK mini and Raspberry Pi into a standalone instrument.",
+    tags: ["Raspberry Pi", "MIDI", "Synthesis"],
+    href: "https://github.com/xiaohet/pi-synth",
     accent: "blue",
-    mark: "∿",
+    mark: "MIDI",
   },
   {
     number: "04",
